@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-platform-orchestration-c64302ad-filament",
+  "capabilityKey": "liberusoftware/module-liberu-platform-orchestration",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/module-liberu-platform-orchestration-c64302ad-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-platform-orchestration.md",
+  "presentationPlan": "projects/accounting/filament/liberu-platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
